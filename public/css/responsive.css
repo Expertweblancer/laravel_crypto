@@ -1,0 +1,77 @@
+@media screen and (min-width: 1200px){
+	.container {
+		max-width: 1200px;
+	}
+}
+@media screen and (max-width: 1199px){
+	.policy-area-content .inner {
+		padding: 10px;
+	}
+	.policy-area-content p {
+		font-size: 14px;
+	}
+	.work-item h4 {
+		font-size: 15px;
+	}
+	.policy .title h2 {
+		font-size: 20px;
+	}
+	.work .title h2 {
+		font-size: 20px;
+	}
+	.intro .title h2 {
+		font-size: 20px;
+	}
+	.policy-area-content .inner {
+		min-height: 148px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.policy-area-content .inner figure img {
+		margin: 0 auto;
+	}
+	.policy-area-content .inner {
+		min-height: initial;
+	}
+	.policy-area-content .inner .content {
+		padding-top: 20px;
+	}
+	.form-title .title h4 {
+		font-size: 20px;
+	}
+	.intro-area-text p {
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.policy-area-content .inner .content {
+		padding-top: 10px;
+	}
+	.intro-area-text p {
+		font-size: 16px;
+	}
+	.policy-area-content p {
+		text-align: left; 
+	}
+	.form-title .title h4 {
+		font-size: 18px;
+	}
+	.policy .title h2 {
+		text-align: center;
+	}
+	.policy .border-line {
+		margin: 0 auto;
+	}
+	#demo {
+		margin-top: 0 !important;
+	}
+}
+@media screen and (max-width: 375px) {
+	.policy-area-content .inner {
+		padding-left: 0;
+	}
+	.intro .title h2 {
+		font-size: 18px;
+	}
+	
+}

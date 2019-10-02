@@ -1,0 +1,27 @@
+<?php
+return [
+    "about" => "About",
+    "banner_text1" => "With cryptocurrencies, Liberation serves as a global bank for everyone. Anyone can make cryptocurrency deposit and earn interest, perform cryptocurrency exchange and hedge cryptocurrency.",
+    "banner_text2" => "Your decentralised financial system with no scrutiny coming your way. Freedom to own belongs to you",
+    "comments" => "Comments",
+    "contact" => "Contact",
+    "contactus" => "Contact Us",
+    "create" => "Create an account",
+    "email" => "Email",
+    "forgot" => "Having trouble logging in?",
+    "home" => "Home",
+    "howitworks" => "How It Works",
+    "lang" => "Lang",
+    "name" => "Name",
+    "phone" => "Phone",
+    "register" => "Register",
+    "send" => "Send Now",
+    "signin" => "Signin",
+    "subject" => "Subject",
+    "use" => "Use Liberation to transger funds",
+    "verify" => "Verify acount and deposit funds",
+    "why" => "Why Choose Us",
+    "why1" => "We keep your information securely encrypted and protect it with 24/7 anti-fraud monitoring",
+    "why2" => "First world bank that is own by us, the user All fees collected are distributed to depositor, investor and the communities",
+    "why3" => "Third party application to interact with Liberation to provide future required facilities and functions is coming your way (smart contracts etc.)"
+];
